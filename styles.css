@@ -260,6 +260,9 @@ Menu
   justify-content: center;
  overflow-x:scroll;
 }
+  .btn-container::-webkit-scrollbar{
+    display:none;
+    }
   .photo {
     height: 175px;
   }
