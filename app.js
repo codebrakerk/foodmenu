@@ -110,7 +110,7 @@ function displaymenu(menuitm){
               <h4>${item.title}</h2>
               <h4 class="price">$${item.price}</h4>
             </header>
-            <p>
+            <p class="info">
         ${item.desc}
             </p>
           </div>
