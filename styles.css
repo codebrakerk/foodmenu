@@ -236,6 +236,9 @@ Menu
 .item-info h4 {
   margin-bottom: 0.5rem;
 }
+.info{
+  font-size:1rem;
+  }
 .price {
   color: var(--clr-gold);
 }
