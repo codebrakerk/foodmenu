@@ -190,7 +190,7 @@ Menu
 .btn-container {
   margin-bottom: 4rem;
   display: flex;
- 
+ justify-content:center;
  overflow-x:scroll;
 }
 .filter-btn {
